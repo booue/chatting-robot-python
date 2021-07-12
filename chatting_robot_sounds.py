@@ -63,9 +63,9 @@ def get_file_content(filePath):
         return fp.read()
 
 #百度语音识别编码
-APP_ID = '24220984'
-API_KEY = '2Qc81SISAOn9uQfvzbf3hgo4'
-SECRET_KEY = 'Vn7OV7YukAmhWtHX9d333FAGbaDmvpHn'
+APP_ID = '********'
+API_KEY = '************************'
+SECRET_KEY = '********************************'
 
 #语音模块主体函数
 def speech_record(isstart):
